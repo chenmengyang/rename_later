@@ -10,7 +10,7 @@
   * concat with early layers parameter, convs
   * bilinearity upsampling again recover to the input resolution
 
-## GOAL
+## GOALs
 * Rebuild the [original deeplab](https://github.com/tensorflow/models/tree/master/research/deeplab) using tensorflow [Estimator](https://www.tensorflow.org/guide/estimators)
 * Features
   * Train
