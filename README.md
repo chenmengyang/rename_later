@@ -14,7 +14,7 @@
 * Rebuild the [original deeplab](https://github.com/tensorflow/models/tree/master/research/deeplab) using tensorflow [Estimator](https://www.tensorflow.org/guide/estimators) and [low-level apis](https://www.tensorflow.org/guide/low_level_intro)
 * Features
   * Train
-  * Evaluation (Show miou for each classes)
+  * Evaluation (Show miou, iou for each class, accuracy, recall)
   * Tensorboard (Visulise prediction results in real time)
 
 ## PLAN & TODOLIST
