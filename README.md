@@ -12,6 +12,9 @@
 
 ## GOALs
 * Rebuild the [original deeplab](https://github.com/tensorflow/models/tree/master/research/deeplab) using tensorflow [Estimator](https://www.tensorflow.org/guide/estimators) and [low-level apis](https://www.tensorflow.org/guide/low_level_intro)
+* Good documentation
+  * Junior level students shoud be easy to get start with the tool, with an small but an interesting dataset as the first example.
+  * More senior examples for larger datasets, e.g. ADE20K, Cityscapes, Pascal_voc_2012 ...
 * Features
   * Train
   * Evaluation (Show miou, iou for each class, accuracy, recall)
